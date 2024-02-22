@@ -1,0 +1,3 @@
+disk 1: https://www.googleapis.com/compute/v1/projects/terraform-gcp-demo-415118/zones/us-central1-a/disks/test-disk-1
+disk 0: https://www.googleapis.com/compute/v1/projects/terraform-gcp-demo-415118/zones/us-central1-a/disks/test-disk-0
+disk 2: https://www.googleapis.com/compute/v1/projects/terraform-gcp-demo-415118/zones/us-central1-a/disks/test-disk-2
